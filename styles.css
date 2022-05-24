@@ -1,0 +1,66 @@
+input{
+    display: flex;
+    align-items: inherit;
+    margin:20px;
+}
+a.btn.btn-primary{
+    margin:auto;
+    margin-top:10px;
+    margin-bottom:10px;
+
+}
+button.btn.btn-primary{
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.card{
+    margin:5px;
+}
+.card.bg-danger{
+    margin:10px;
+}
+.new{
+    width:auto;
+    height:auto;
+    align-items: center;
+}
+h4{
+    text-align:center;
+}
+.col-sm-3{
+     border-radius: 25px 25px 25px 25px;
+}
+.card{
+    background-color: blue;
+}
+.container1{
+    display: flex;
+    align-items: center;
+}a{
+    text-align:center;
+}
+.ceneter{
+    display: flexbox;
+    justify-content: center;
+    text-align:center;
+}
+.containerimg{
+
+    align-items: center;
+    text-align: center;
+}
+img{
+    height:70px;
+    width:80px;
+}
+.card.bg-danger{
+    background-color: #32a85a!important;
+}
+.card.bg-primary {
+    background-color: rgba(0, 0, 0, 0.2)!important;
+}
+.card.bg-primary {
+    background-color: rgba(0, 0, 0, 0.2)!important;
+}
